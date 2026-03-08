@@ -54,7 +54,7 @@ Demonstrates function context manipulation using:
 * `bind()`
 
 **accountFactory.js** – core banking logic: base account, specialized accounts, inheritance, withdraw overriding, curried fee calculator, factory function.
-**demo.js** – demonstrates usage: account creation, deposits/withdrawals, transfers, interest application, fees, dynamic context, and error handling.
+**demonstration.js** – demonstrates usage: account creation, deposits/withdrawals, transfers, interest application, fees, dynamic context, and error handling.
 
 
 ## Technologies Used
@@ -87,7 +87,7 @@ cd bank-account-simulator
 3. Run the demo:
 
 ```bash
-node src/demo.js
+node src/demonstration.js
 ```
 
 ## Expected Behavior
@@ -113,7 +113,5 @@ node src/demo.js
 * Modular JavaScript architecture
 
 ---
-
-## License
 
 This project is intended for **educational purposes**, demonstrating key JavaScript concepts through a structured banking simulation.
